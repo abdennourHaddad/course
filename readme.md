@@ -1,10 +1,10 @@
-# Pages dynamiques
+# Site Web Présentant La Course
 
 [@abdennour.haddad.etu](mailto:abdennour.haddad.etu@univ-lille.fr)
 
 ## Contexte
 
-Dans cette fiche, on a construit une page web dynamique utilisant des services web fournissant une réponse en `JSON`.
+Dans ce projet, on a construit une page web dynamique utilisant des services web fournissant une réponse en `JSON`.
 
 ## Mise en place et manipulation
 
